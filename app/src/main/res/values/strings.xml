@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecordSave</string>
+    <string name="feature_not_available">This feature will be added soon</string>
+    <string name="dialog_list_title">Select an entity to add.</string>
+
+    <string name="error_name">Please provide name.</string>
+    <string name="error_address">Please provide address</string>
+    <string name="error_price">Please provide price</string>
+</resources>
